@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # Hi 👋, I'm Ahmed Reda
 
 💻 Frontend Developer specializing in **React.js**
