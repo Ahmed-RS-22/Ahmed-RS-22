@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahmed Reda Salama 👋
 
-<!--
-**Ahmed-RS-22/Ahmed-RS-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer (React.js)  
+🎓 Computer Science Student  
+🚀 Passionate about building modern web applications
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- TailwindCSS
+- Redux Toolkit
+- Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+🔹 IC Identifier & K-Map Solver  
+🔹 Velora Perfume E-commerce App  
+🔹 Flight Booking UI
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/ahmed-reda-salama-962864292/  
+Portfolio: https://my-portfolio-delta-lilac-71.vercel.app/
