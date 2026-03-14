@@ -76,9 +76,10 @@ React • Redux Toolkit • REST APIs
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-RS-22&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-RS-22&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-RS-22&show_icons=true&theme=tokyonight)     ![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-RS-22&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-RS-22&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-RS-22&theme=tokyonight)
+
 
 ---
 
