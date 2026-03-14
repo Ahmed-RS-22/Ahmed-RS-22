@@ -27,52 +27,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-## Styling
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-## Tools 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-## Backend / APIs
 ![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
-## 📌 Featured Projects
-
-### 🔹 IC Identifier & Karnaugh Map Solver
-
-A web application that helps identify digital ICs and simplify Boolean expressions using the **Quine–McCluskey algorithm**.
-
-**Features**
-
-* IC search and detailed information
-* Boolean simplification
-* Circuit diagram visualization
-* Interactive UI
-
-Tech Stack:
-React • TypeScript • Algorithm Implementation
-
----
-
-### 🔹 Velora Perfume E-commerce
-
-A modern **e-commerce platform** with product browsing, filtering, and shopping cart functionality.
-
-Tech Stack:
-React • Supabase • TailwindCSS
-
----
-
-### 🔹 Flight Booking UI
-
-A flight search and booking interface with advanced filtering and dynamic data handling.
-
-Tech Stack:
-React • Redux Toolkit • REST APIs
-
----
 
 ## 📊 GitHub Stats
 
