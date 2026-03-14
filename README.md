@@ -46,9 +46,13 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ahmed-reda-salama-962864292/
-* 🌍 Portfolio: https://my-portfolio-delta-lilac-71.vercel.app/
-* 📧 Email: ahmed.rs.1532@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Reda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-reda-salama-962864292/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://my-portfolio-delta-lilac-71.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-ahmed.rs.1532%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ahmed.rs.1532@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+201227530973)
 
 ---
 
