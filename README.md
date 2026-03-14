@@ -1,4 +1,4 @@
-<a href="https://my-portfolio-delta-lilac-71.vercel.app/">
+<a target="_blank" href="https://my-portfolio-delta-lilac-71.vercel.app/">
   <img src="./banner.png"/>
 </a>
 # Hi 👋, I'm Ahmed Reda
